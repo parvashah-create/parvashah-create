@@ -21,12 +21,12 @@ Database Modeling & Administration graduate student at Northeastern University. 
 
 ### 📬 Get in Touch
 
-- GitHub: [github](https://github.com/parvashah-create)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/parva-j-shah-2394481a2/)
-- Portfolio: [Work Portfolio](https://parvasite.onrender.com/)
+- [github](https://github.com/parvashah-create)
+- [LinkedIn](https://www.linkedin.com/in/parva-j-shah-2394481a2/)
+- [Work Portfolio](https://parvasite.onrender.com/)
 - E-mail: jmparvashah@gmail.com
 
-![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvashah-create&show_icons=true&theme=onedark)
+![Parva's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvashah-create&show_icons=true&theme=onedark)
 
 <!-- [github]: https://github.com/Negi97Mohit
 [site]: https://federico-dondi.github.io
