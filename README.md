@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fkyojuro-rengoku%2F&psig=AOvVaw3uKcP_GxbuMpniUNWIGVwU&ust=1680650055043000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMDBnr7rjv4CFQAAAAAdAAAAABAE"  height="250" width="250"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1169.gif"  height="250" width="250"/>
 </ p>
 
 # Hello, I'm Parva Shah
 
 ![Python](https://img.shields.io/badge/Python-Advance-orange)
-![JAVA](https://img.shields.io/badge/JAVA-Advance-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Advance-green)
 ![HTML](https://img.shields.io/badge/HTML-Advance-blue)
 ![CSS](https://img.shields.io/badge/CSS-Advance-red)
