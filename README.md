@@ -26,7 +26,8 @@ Database Modeling & Administration graduate student at Northeastern University. 
 - Portfolio: [Work Portfolio](https://parvasite.onrender.com/)
 - E-mail: jmparvashah@gmail.com
 
-![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvashah-create&show_icons=true&theme=dracula)
+![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvashah-create&show_icons=true&theme=onedark)
 
-[github]: https://github.com/Negi97Mohit
+<!-- [github]: https://github.com/Negi97Mohit
 [site]: https://federico-dondi.github.io
+ -->
