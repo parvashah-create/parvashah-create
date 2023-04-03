@@ -21,7 +21,7 @@ Database Modeling & Administration graduate student at Northeastern University. 
 
 ### 📬 Get in Touch
 
-- [github](https://github.com/parvashah-create)
+- [Github](https://github.com/parvashah-create)
 - [LinkedIn](https://www.linkedin.com/in/parva-j-shah-2394481a2/)
 - [Work Portfolio](https://parvasite.onrender.com/)
 - E-mail: jmparvashah@gmail.com
