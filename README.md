@@ -28,6 +28,3 @@ Database Modeling & Administration graduate student at Northeastern University. 
 
 ![Parva's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvashah-create&show_icons=true&theme=onedark)
 
-<!-- [github]: https://github.com/Negi97Mohit
-[site]: https://federico-dondi.github.io
- -->
