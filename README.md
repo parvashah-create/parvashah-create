@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1169.gif"  height="250" width="250"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1169.gif"  height="498" width="280"/>
 </ p>
 
 # Hello, I'm Parva Shah
@@ -10,21 +10,21 @@
 ![CSS](https://img.shields.io/badge/CSS-Advance-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-MS. Information Systems student at Northeastern University. Data Science enthusiast with passion for neural networks, NLP, crypto and stock market. Fascinated by the terminal.  Proudly from [ INDIA ]
+Database Modeling & Administration graduate student at Northeastern University. Data Science enthusiast with passion for neural networks, NLP, crypto and stock market. Fascinated by the terminal.  Proudly from [ INDIA ]
 
-- 🔭 Master's degree in **Information Systems** at Northeastern University
-- 🌱 I’m currently learning **Cyber Security** by MySelf
-- 🌱 Feel free to connect with me to talk about AI, ML, Crypto or any other tech related issues..
+- 🔭 Master's degree in **Data Architecture & Management** at Northeastern University
+- 🌱 I’m currently learning **AWS** by MySelf
+- 🔗 Feel free to connect with me to talk about AI, ML, Crypto or any other tech related issues..
 - ⚙️ Mastering: `.py`, `.java`,`.css`,`.html`,`.sql`
 - 👯 I’m looking to collaborate on **Open Source** projects.
-- 💬 I'm mostly active within the **Kali Linux**, **.py**, **.java**  communities
+- 💬 I'm mostly active within the **start-up** **.py**, **.java** communities
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/Negi97Mohit][github]
-- LinkedIn: [https://www.linkedin.com/in/mohit-negi-109588208/][LinkedIn]
-- Portfolio: [Work Portfolio](https://negim.myportfolio.com/)
-- E-mail: negi.m@northeastern.edu
+- GitHub: [https://github.com/parvashah-create][github]
+- LinkedIn: [https://www.linkedin.com/in/parva-j-shah-2394481a2/][LinkedIn]
+- Portfolio: [Work Portfolio](https://parvasite.onrender.com/)
+- E-mail: jmparvashah@gmail.com
 
 ![Mohit Negi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Negi97Mohit&show_icons=true&theme=dracula)
 
