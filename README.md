@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1169.gif"  height="498" width="280"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1169.gif"  height="280" width="498"/>
 </ p>
 
 # Hello, I'm Parva Shah
