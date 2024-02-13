@@ -13,7 +13,7 @@
 Database Modeling & Administration graduate student at Northeastern University. Data Science enthusiast with passion for neural networks, NLP, crypto and stock market. Fascinated by the terminal.  Proudly from [ INDIA ]
 
 - 🔭 Master's degree in **Data Architecture & Management** at Northeastern University
-- 🌱 I’m currently learning **AWS** by MySelf
+- 🌱 I’m currently learning **AWS**
 - 🔗 Feel free to connect with me to talk about AI, ML, Crypto or any other tech related issues..
 - ⚙️ Mastering: `.py`, `.java`,`.css`,`.html`,`.sql`
 - 👯 I’m looking to collaborate on **Open Source** projects.
