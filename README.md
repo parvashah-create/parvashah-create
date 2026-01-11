@@ -20,8 +20,8 @@
 ## 🚀 About Me
 
 * 🎓 **M.S. Data Architecture & Management** @ Northeastern University
-* 🛠 Currently leading Data & Context Engineering at [**Leo**](https://leoads.ai/), building AI‑powered 
-* 🧑‍💻 In love with learning, currently learning about digital marketing.
+* 🛠 Currently leading Data & Context Engineering at [**Leo**](https://leoads.ai/), building AI‑powered digital ad buying.
+* 🧑‍💻 In love with learning, currently learning about marketing.
 
 ## 🛠 Tech Stack
 
