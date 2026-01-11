@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Parva Shah 👋</h1>
 
 <p align="center">
-  Lead Engineer @ <a href="https://www.pairbo.com">Pairbo, Inc.</a> • Data Expert • Builder of ML‑powered products
+  Context Engineer @ <a href="https://leoads.ai/">Leo Ads.</a> • Data Expert
 </p>
 
 <p align="center">
