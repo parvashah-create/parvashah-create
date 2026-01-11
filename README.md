@@ -20,11 +20,8 @@
 ## 🚀 About Me
 
 * 🎓 **M.S. Data Architecture & Management** @ Northeastern University
-* 🛠 Currently leading backend & ML at **Pairbo**, building AI‑powered greeting‑card personalization
-* 🧑‍💻 Passionate about deep learning, knowledge graphs, and developer experience
-* 🌱 Leveling‑up on **AWS** & **MLOps**
-* 💬 Ask me about AI agents, RAG pipelines, or serverless GPUs
-* 🇮🇳 Proudly from **India**, now based in **Boston, MA**
+* 🛠 Currently leading Data & Context Engineering at [**Leo**](https://leoads.ai/), building AI‑powered 
+* 🧑‍💻 In love with learning, currently learning about digital marketing.
 
 ## 🛠 Tech Stack
 
