@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 46" width="880" height="46" role="img" aria-label="By the Numbers">
+  <rect x="1.5" y="1.5" width="877" height="43" rx="4" fill="none" stroke="#E6EDF3" stroke-width="1.5"/>
+  <rect x="14" y="16" width="14" height="14" fill="none" stroke="#E6EDF3" stroke-width="1.5"/>
+  <g stroke="#E6EDF3" stroke-width="1.4">
+      <line x1="36" y1="12" x2="343" y2="12"/>
+      <line x1="537" y1="12" x2="864" y2="12"/>
+      <line x1="36" y1="17" x2="343" y2="17"/>
+      <line x1="537" y1="17" x2="864" y2="17"/>
+      <line x1="36" y1="22" x2="343" y2="22"/>
+      <line x1="537" y1="22" x2="864" y2="22"/>
+      <line x1="36" y1="27" x2="343" y2="27"/>
+      <line x1="537" y1="27" x2="864" y2="27"/>
+      <line x1="36" y1="32" x2="343" y2="32"/>
+      <line x1="537" y1="32" x2="864" y2="32"/>
+      <line x1="36" y1="37" x2="343" y2="37"/>
+      <line x1="537" y1="37" x2="864" y2="37"/>
+  </g>
+  <text x="440" y="30" text-anchor="middle" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="2" fill="#E6EDF3">By the Numbers</text>
+</svg>
